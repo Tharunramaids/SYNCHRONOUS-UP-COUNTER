@@ -68,7 +68,8 @@ endmodule
 **TIMING DIAGRAM**
 
 
-![output 11](https://github.com/user-attachments/assets/1d52f31f-4bbc-49b3-9156-d9b51e2748ce)
+![Screenshot 2024-12-22 191615](https://github.com/user-attachments/assets/2dce1108-37db-4e37-a7e0-37b5590c7eea)
+
 
 **TRUTH TABLE**
 
